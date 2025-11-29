@@ -2,7 +2,7 @@ const Hero = () => {
   return (
     <section className="hero" id="home">
       <div className="hero-banner">
-        <h1>Boundless Adventures With Testing</h1>
+        <h1>Boundless Adventures With Testing DEV</h1>
         <p>
           Explore the world's wonders, create unforgettable memories, and unlock
           new adventures with us.
